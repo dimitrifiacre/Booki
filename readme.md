@@ -1,5 +1,7 @@
-<img src="https://i.gyazo.com/1ca8bcae82fe0a3c2c626770f2a925ce.png" alt="Booki">
-
+<a href="https://dimitrifiacre.github.io/Booki/">
+  <img src="https://i.gyazo.com/1ca8bcae82fe0a3c2c626770f2a925ce.png" alt="Booki">
+</a>
+  
 **Booki** est le projet 2 de la formation développeur web d'OpenClassrooms.
 
 ------
@@ -12,4 +14,6 @@
 * Implémenter une interface responsive
 
 ## Résultat
-<img src="https://i.gyazo.com/15da61e7e2ed13213066ea2fbb831f93.png">
+<a href="https://dimitrifiacre.github.io/Booki/">
+  <img src="https://i.gyazo.com/15da61e7e2ed13213066ea2fbb831f93.png">
+</a>
